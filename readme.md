@@ -1,6 +1,6 @@
 # 🔒 NTFSecur — PolSoft System Management Panel
 
-![Logo]([https://example.com/logo.png](https://github.com/seb07uk/NTFSecur---System-Management-Panel/blob/main/screenshot/screenshot4.png))
+![Screenshot](./screenshot/screenshot4.png)
 
 > **v2.1.0** · polsoft.ITS™ · © 2026 Sebastian Januchowski · All rights reserved
 
