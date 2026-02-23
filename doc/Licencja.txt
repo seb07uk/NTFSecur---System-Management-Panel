@@ -1,0 +1,36 @@
+Licencja Freeware (polsoft.ITS™ Group)
+
+Copyright (c) 2026
+Sebastian Januchowski
+polsoft.ITS™ Group
+
+Oprogramowanie jest udostępniane jako Freeware. Może być używane, kopiowane
+i rozpowszechniane bezpłatnie do celów osobistych, edukacyjnych lub
+komercyjnych, pod warunkiem spełnienia poniższych warunków:
+
+1. Oryginalna informacja o prawach autorskich oraz nazwisko autora muszą
+   pozostać nienaruszone i nie mogą być usuwane, modyfikowane, ukrywane ani
+   zastępowane w żadnej kopii, fork’u, modyfikacji ani dystrybucji
+   Oprogramowania.
+
+2. Dopuszcza się i zachęca do umieszczania informacji o współautorach,
+   kontrybutorach lub autorach modyfikacji, pod warunkiem że oryginalne
+   oznaczenie autorstwa pozostaje w pełni zachowane i wyraźnie widoczne.
+
+3. Oprogramowanie nie może być sprzedawane jako samodzielny produkt. Może
+   jednak być dołączane do pakietów, produktów lub dystrybucji komercyjnych,
+   o ile nie stanowi głównego przedmiotu sprzedaży.
+
+4. Oprogramowanie jest udostępniane bezpłatnie i bez jakiegokolwiek obowiązku
+   świadczenia wsparcia technicznego, aktualizacji lub utrzymania ze strony
+   autora lub polsoft.ITS™ Group.
+
+OPROGRAMOWANIE JEST DOSTARCZANE „TAK JAK JEST”, BEZ JAKIEJKOLWIEK GWARANCJI,
+WYRAŹNEJ LUB DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI PRZYDATNOŚCI
+HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIENARUSZANIA PRAW.
+W ŻADNYM WYPADKU AUTOR ANI POSIADACZE PRAW AUTORSKICH NIE PONOSZĄ
+ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK ROSZCZENIA, SZKODY LUB INNE ZOBOWIĄZANIA,
+NIEZALEŻNIE OD TEGO, CZY WYNIKAJĄ Z UMOWY, CZYNU NIEDOZWOLONEGO LUB INNEJ
+PODSTAWY, WYNIKAJĄCE Z OPROGRAMOWANIA LUB ZWIĄZANE Z OPROGRAMOWANIEM LUB
+KORZYSTANIEM Z OPROGRAMOWANIA LUB INNYMI DZIAŁANIAMI ZWIĄZANYMI Z
+OPROGRAMOWANIEM.
