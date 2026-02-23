@@ -1,5 +1,7 @@
 # 🔒 NTFSecur — PolSoft System Management Panel
 
+![Logo]([https://example.com/logo.png](https://github.com/seb07uk/NTFSecur---System-Management-Panel/blob/main/screenshot/screenshot4.png))
+
 > **v2.1.0** · polsoft.ITS™ · © 2026 Sebastian Januchowski · All rights reserved
 
 A professional Windows system management centre built in Python as a portable EXE. Combines NTFS partition security, BitLocker management, process monitoring, network diagnostics, services control, USB tracking, system backup and many more modules — all in a single dark-themed window.
@@ -33,25 +35,6 @@ A professional Windows system management centre built in Python as a portable EX
 - [Building to EXE (build.bat)](#building-to-exe-buildbat)
 - [Known Limitations](#known-limitations)
 - [Contact & License](#contact--license)
-
----
-
-## 📸 Screenshots
-
-### Handbook — Built-in User Manual
-![Built-in handbook showing NTFSecur introduction, system requirements and running as administrator instructions](screenshots/screenshot4.png)
-
-### NTFSecur — NTFS Partition Security
-![NTFSecur module showing three NTFS partitions (C:, D:, E:) with UNLOCKED status and BitLocker buttons](screenshots/screenshot.png)
-
-### Processes — Process Manager
-![Process Manager listing running Windows processes with PID, memory usage and KILL buttons](screenshots/screenshot3.png)
-
-### FS Library — File System Knowledge Base
-![FS Library table listing file systems like NTFS, FAT32, exFAT, ext4, Btrfs, ZFS with type, max volume, max file size and OS support](screenshots/screenshot1.png)
-
-### Database Library — Database Engine Knowledge Base
-![Database Library listing engines like SQLite, PostgreSQL, MySQL, MongoDB, Redis with type, port, license and OS columns](screenshots/screenshot2.png)
 
 ---
 
